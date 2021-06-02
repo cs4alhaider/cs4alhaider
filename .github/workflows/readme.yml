@@ -31,4 +31,4 @@ jobs:
         message: "Auto updating cs4alhaider readme"
         add: "*.svg"
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITH_TOKEN }}
