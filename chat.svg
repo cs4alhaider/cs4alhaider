@@ -299,8 +299,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="42" rx="18.0355" class="bubble" />
+    <rect width="450" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Mobile Apps Lead, and I work @Mobily</text>
+    <text x="15" y="27">I also like to code on the side and discover new things..</text>
   </g>
 
   <!-- typing 4 -->
@@ -323,7 +324,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="523" height="42" rx="18.0355" class="bubble" />
+    <rect width="530" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Twitter at
       <a xlink:href="https://twitter.com/cs4alhaider">https://twitter.com/cs4alhaider</a>
