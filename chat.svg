@@ -250,7 +250,7 @@
 
   <!-- Hi, I'm Abdullah -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="250" height="42" rx="18.0355" />
+    <rect width="238" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Abdullah Alhaider</text>
   </g>
 
@@ -299,8 +299,8 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a Mobile Apps Lead, and I work @Mobily,</text>
+    <rect width="460" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I’m a Mobile Apps Lead, and I work @Mobily</text>
   </g>
 
   <!-- typing 4 -->
@@ -323,7 +323,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="523" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Twitter at
       <a xlink:href="https://twitter.com/cs4alhaider">https://twitter.com/cs4alhaider</a>
