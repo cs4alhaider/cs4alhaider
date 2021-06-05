@@ -250,7 +250,7 @@
 
   <!-- Hi, I'm Abdullah -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="238" height="42" rx="18.0355" />
+    <rect width="228" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Abdullah Alhaider</text>
   </g>
 
@@ -301,7 +301,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="450" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Mobile Apps Lead, and I work @Mobily</text>
-    <text x="15" y="27">I also like to code on the side and discover new things..</text>
+    <text x="15" y="50">I also like to code on the side and discover new things..</text>
   </g>
 
   <!-- typing 4 -->
